@@ -8,7 +8,7 @@ Web-Designer with 2+ years of work experience. Expertise in design making, espec
 
 ## Experience
 
-### <span>Web-Desogner, Yves Rocher</span> <span>March 2020 -- March 2022</span>
+### <span>Web-Designer, Yves Rocher</span> <span>March 2020 -- March 2022</span>
 
  - Website graphic design (promo campaigns, product ranges)
  - Landing page design for an online store
