@@ -15,7 +15,6 @@ Web-Designer with 2+ years of work experience. Expertise in design making, espec
  - Development of layouts for mobile applications
  - Banners, email newsletters (including animated ones)
  - Creation of creatives for social networks (static images, videos)
- - Presentations for annual meetings
  - Print design
 
 ## Education
